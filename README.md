@@ -1,11 +1,6 @@
 # ts-cart
 
-Foobar is a Python library for dealing with word pluralization.
-
-# Usage
-
-
-
+ts-cart is a simple checkout code in ts
 
 ## Usage
 run the following command inside the folder to get the result
